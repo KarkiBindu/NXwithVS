@@ -18,6 +18,8 @@ These all files are located in C:\Program Files\Siemens\NX 11.0\NXBIN\managed
 Then build the project
 
 A .dll file with project name is created inside the bin folder of the project directory which is used execute the code in NX
+
+
 To use these libraries on visual studio 
 * `using NXOpen`  
 * `using NXOpen.UF`.... is used
